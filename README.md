@@ -1,5 +1,4 @@
-<img src="https://media3.giphy.com/media/WiM5K1e9MtEic/giphy.gif?cid=ecf05e47h2m5tfdhxg5tprqginiwg6iuusxcmkie0yc6sgog&rid=giphy.gif&ct=g" align="right" width="150" height="200">
-
+<img src="https://media3.giphy.com/media/WiM5K1e9MtEic/giphy.gif?cid=ecf05e47h2m5tfdhxg5tprqginiwg6iuusxcmkie0yc6sgog&rid=giphy.gif&ct=g" align="right" width="250" height="190">
 
 
 
