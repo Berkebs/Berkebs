@@ -36,7 +36,7 @@
 
 <details>
 <summary>:computer: Most Use Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkebs&langs_count=4"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkebs&langs_count=15"/>
 </details>
 
 
