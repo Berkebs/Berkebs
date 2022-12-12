@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/BUFH4d5J23UAAAAd/sus-dog.gif" align="right" width="250" height="350">
+<img src="https://media.tenor.com/BUFH4d5J23UAAAAd/sus-dog.gif" align="right" width="300" height="350">
 
 
 
