@@ -1,4 +1,4 @@
-<img src="https://giphy.com/gifs/dog-face-front-camera-7XuKKmGiaxXe6EjOj4" align="right" width="250" height="190">
+<img src="https://giphy.com/embed/7XuKKmGiaxXe6EjOj4" align="right" width="250" height="190">
 
 <img src="https://giphy.com/embed/xThtadSLoInlcD1UmA" width="370" height="480" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/reactionseditor-dog-look-xThtadSLoInlcD1UmA">via GIPHY</a></p>>
 
